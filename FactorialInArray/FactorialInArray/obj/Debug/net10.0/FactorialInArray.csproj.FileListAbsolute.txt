@@ -1,0 +1,14 @@
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/bin/Debug/net10.0/FactorialInArray
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/bin/Debug/net10.0/FactorialInArray.deps.json
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/bin/Debug/net10.0/FactorialInArray.runtimeconfig.json
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/bin/Debug/net10.0/FactorialInArray.dll
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/bin/Debug/net10.0/FactorialInArray.pdb
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/obj/Debug/net10.0/FactorialInArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/obj/Debug/net10.0/FactorialInArray.AssemblyInfoInputs.cache
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/obj/Debug/net10.0/FactorialInArray.AssemblyInfo.cs
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/obj/Debug/net10.0/FactorialInArray.csproj.CoreCompileInputs.cache
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/obj/Debug/net10.0/FactorialInArray.dll
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/obj/Debug/net10.0/refint/FactorialInArray.dll
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/obj/Debug/net10.0/FactorialInArray.pdb
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/obj/Debug/net10.0/FactorialInArray.genruntimeconfig.cache
+/home/hp/Working-with-arrays/FactorialInArray/FactorialInArray/obj/Debug/net10.0/ref/FactorialInArray.dll
