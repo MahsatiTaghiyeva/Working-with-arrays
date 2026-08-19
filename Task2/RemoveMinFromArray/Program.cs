@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-int[] numbers =  {7, 12, 5, 8};
+﻿int[] numbers =  {7, 12, 5, 8};
 int[] newnumbers = new int[4];
 int min = numbers[0];
 for(int i = 0; i < numbers.Length; i++)
@@ -20,5 +18,9 @@ foreach(int number in numbers)
     }
     newnumbers[index] = number;
     index++;
+    
+}
+foreach(int number in newnumbers)
+{
     Console.WriteLine(number);
 }
